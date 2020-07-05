@@ -39,8 +39,7 @@ main {
 	text-align: center;
 }
 #trout-container .trout {
-	background-image: url("https://rate-this-trout.s3.us-east-2.amazonaws.com/trout.png");
-	/* background-image: url("img/golden-trout.png"); */
+	background-image: url("../img/trout.png");
 	background-size: contain;
 	background-repeat: no-repeat;
 	background-position: center;
