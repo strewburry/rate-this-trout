@@ -1,0 +1,29 @@
+/* 
+#rate-input {
+	-webkit-appearance: none;
+	width: 100%; 
+	background: transparent; 
+}
+#rate-input::-webkit-slider-thumb {
+	-webkit-appearance: none;
+	height: 30px;
+	width: 30px;
+	background: pink;
+	border-radius: 50%;
+}
+#rate-input::-moz-range-thumb {
+	height: 20px;
+	width: 40px;
+	background-image: url("img/trout-icon.png");
+}
+#rate-input::focus {
+	outline: none;
+}
+#rate-input::-ms-track {
+	width: 100%;
+	cursor: pointer;
+	background: transparent; 
+	border-color: transparent;
+	color: transparent;
+} 
+*/
